@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willemgorter
+- 👋 Hi, I’m @willemgorter, I work for Temenos in Denmark, and I am a Regional Solution Architect
 - 👀 I’m interested in Banking Software and Software Architecture
 - 🌱 I’m currently learning Azure Fundamentals
 - 💞️ I’m looking to collaborate on Temenos Transact T24
